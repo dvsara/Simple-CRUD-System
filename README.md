@@ -4,7 +4,7 @@
 
 # CRUD system in PHP and MySQL
 
-This is a simple CRUD (Create, Read, Update, Delete) system in PHP and MySQL for managing a "Task" application.
+This is a simple CRUD (Create, Read, Update, Delete) system in PHP and MySQL for managing a "Task" application. Written in english and italian.
 
 ## Description
 
